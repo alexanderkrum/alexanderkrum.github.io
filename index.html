@@ -1,57 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Alexander Krum</title>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:900|Work+Sans:300" rel="stylesheet">
-</head>
-<body>
-<section class="header">
-    <nav>
-      <a class="active" href="/index.html">CV/</a><a href="/projects.html">PROJECTS/</a><a href="/blog.html">BLOG/</a>
-    </nav>
+---
+layout: default
+---
+
+{% include header.html active="index" %}
+
+<section class="numbers">
+    <p class="twenty">20</p>
+    <p class="running-year">18</p>
 </section>
 
-</body>
-<style>
-    /*font families*/
-    /*
-
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Lora', serif;
-
-     */
-    body{
-        margin: 0px;
-        font-family: 'Work Sans', sans-serif;
-        font-weight: 300;
-        color: red;
-    }
-
-    section.header{
-        height: 100vh;
-    }
-
-    section nav{
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-    }
-
-    nav{
-        margin-top: 150px;
-    }
-
-    nav a{
-        font-family: 'Montserrat', sans-serif;
-        text-decoration: none;
-        font-size: 3.5em;
-        margin-right: 5px;
-        font-weight: 900;
-        color: grey;
-    }
-    nav a.active{
-        color: black;
-    }
-</style>
-</html>

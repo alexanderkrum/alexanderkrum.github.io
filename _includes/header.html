@@ -1,0 +1,21 @@
+<section class="header">
+    <nav>
+        {% if include.active == "index" %}
+            <a class="active" href="/index.html">CV/</a>
+        {% else %}
+            <a href="/index.html">CV/</a>
+        {% endif %}
+
+        {% if include.active == "projects" %}
+            <a class="active" href="/projects.html">PROJECTS/</a>
+        {% else %}
+            <a href="/projects.html">PROJECTS/</a>
+        {% endif %}
+
+        {% if include.active == "blog" %}
+            <a class="active" href="/blog.html">BLOG/</a>
+        {% else %}
+            <a href="/blog.html">BLOG/</a>
+        {% endif %}
+    </nav>
+</section>
