@@ -1,0 +1,23 @@
+# Logfile created on 2018-07-01 07:30:54 +0200 by logger.rb/56815
+I, [2018-07-01T07:30:54.544207 #2475]  INFO -- : 0:  public_suffix (2.0.5) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/public_suffix-2.0.5.gemspec
+I, [2018-07-01T07:30:54.707963 #2475]  INFO -- : 0:  addressable (2.5.1) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/addressable-2.5.1.gemspec
+I, [2018-07-01T07:30:54.708257 #2475]  INFO -- : 0:  colorator (1.1.0) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/colorator-1.1.0.gemspec
+I, [2018-07-01T07:30:54.708504 #2475]  INFO -- : 0:  ffi (1.9.18) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/ffi-1.9.18.gemspec
+I, [2018-07-01T07:30:54.708703 #2475]  INFO -- : 0:  forwardable-extended (2.6.0) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/forwardable-extended-2.6.0.gemspec
+I, [2018-07-01T07:30:54.708891 #2475]  INFO -- : 0:  rb-fsevent (0.10.2) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/rb-fsevent-0.10.2.gemspec
+I, [2018-07-01T07:30:54.709061 #2475]  INFO -- : 0:  rb-inotify (0.9.10) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/rb-inotify-0.9.10.gemspec
+I, [2018-07-01T07:30:54.709228 #2475]  INFO -- : 0:  sass-listen (4.0.0) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/sass-listen-4.0.0.gemspec
+I, [2018-07-01T07:30:55.107086 #2475]  INFO -- : 0:  sass (3.5.1) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/sass-3.5.1.gemspec
+I, [2018-07-01T07:30:55.107337 #2475]  INFO -- : 0:  jekyll-sass-converter (1.5.0) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/jekyll-sass-converter-1.5.0.gemspec
+I, [2018-07-01T07:30:55.107744 #2475]  INFO -- : 0:  listen (3.0.8) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/listen-3.0.8.gemspec
+I, [2018-07-01T07:30:55.108148 #2475]  INFO -- : 0:  jekyll-watch (1.5.0) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/jekyll-watch-1.5.0.gemspec
+I, [2018-07-01T07:30:55.621779 #2475]  INFO -- : 0:  kramdown (1.14.0) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/kramdown-1.14.0.gemspec
+I, [2018-07-01T07:30:55.622045 #2475]  INFO -- : 0:  liquid (4.0.0) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/liquid-4.0.0.gemspec
+I, [2018-07-01T07:30:55.622240 #2475]  INFO -- : 0:  mercenary (0.3.6) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/mercenary-0.3.6.gemspec
+I, [2018-07-01T07:30:55.886368 #2475]  INFO -- : 0:  pathutil (0.14.0) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/pathutil-0.14.0.gemspec
+I, [2018-07-01T07:30:56.499637 #2475]  INFO -- : 0:  rouge (1.11.1) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/rouge-1.11.1.gemspec
+I, [2018-07-01T07:30:56.500096 #2475]  INFO -- : 0:  safe_yaml (1.0.4) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/safe_yaml-1.0.4.gemspec
+I, [2018-07-01T07:30:57.091012 #2475]  INFO -- : 0:  jekyll (3.5.2) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/jekyll-3.5.2.gemspec
+I, [2018-07-01T07:30:57.091274 #2475]  INFO -- : 0:  jekyll-feed (0.9.2) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/jekyll-feed-0.9.2.gemspec
+I, [2018-07-01T07:30:57.091483 #2475]  INFO -- : 0:  minima (2.1.1) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/minima-2.1.1.gemspec
+I, [2018-07-01T07:30:57.091628 #2475]  INFO -- : 0:  bundler (1.5.1) from /Users/alexanderkrum/.rvm/gems/ruby-2.4.1/specifications/bundler-1.5.1.gemspec
